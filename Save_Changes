@@ -1,0 +1,11 @@
+1) First Command in Terminal // 
+
+git add . ( THEN PRESS ENTER) = THIS ADDS ALL YOUR CHANGES
+
+2) Second Command in Terminal // 
+
+git commit -m " Update Label " ( THEN PRESS ENTER ) = THIS LABELS THE UPDATE THAT YOU ARE PUSHING 
+
+3) Third Command in Terminal // 
+
+git push ( THEN PRESS ENTER ) = THIS PUSHES YOUR UPDATEd CODE TO YOUR REPOSITORY ( CODE DATABASE )
